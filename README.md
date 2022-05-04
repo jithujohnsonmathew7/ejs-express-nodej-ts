@@ -2,7 +2,7 @@
 ejs-express-nodejs-ts framework
 
 --installation 
-- npm i teen-framework
+- npm i ejs-express-nodejs-ts
 
 use the following commands to run the application:
 
