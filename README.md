@@ -6,11 +6,11 @@ ejs-express-nodejs-ts framework
 
 use the following commands to run the application:
 
-- npm i       //to install all modules.
+- npm i                     //to install all modules.
 
 after making changes take build
-- npm run build // to build the dist folder
+- npm run build            // to build the application
 
 - npm run copyAssets      // to copy views and public into dist folder
 
-- npm run start     //to start the application
+- npm run start             //to start the application
