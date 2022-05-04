@@ -5,7 +5,8 @@ ejs-express-nodejs-ts framework
 - npm i teen-framework
 
 use the following commands to run the application:
-- npm i to        //install all modules.
+
+- npm i       //to install all modules.
 
 after making changes take build
 - npm run build
