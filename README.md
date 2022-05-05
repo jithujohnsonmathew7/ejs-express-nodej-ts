@@ -1,8 +1,9 @@
 # ejs-express-nodejs-ts framework
-ejs-express-nodejs-ts framework
+ejs-express-nodejs-ts  custom framework
 
---installation 
-- npm i ejs-express-nodejs-ts
+github link : https://github.com/jithujohnsonmathew7/ejs-express-nodejs-ts-framework
+
+- download the code, follow the given steps and enjoy coding.
 
 use the following commands to run the application:
 
