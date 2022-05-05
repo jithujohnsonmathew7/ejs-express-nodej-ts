@@ -1,6 +1,6 @@
 {
   "name": "ejs-express-nodejs-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this provides a simplified ejs-express-nodejs-ts framework ",
   "main": "app.js",
   "scripts": {
